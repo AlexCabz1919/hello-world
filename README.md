@@ -1,2 +1,6 @@
 # hello-world
-New Repository 
+
+
+Hello! 
+
+I am Alex i just love programming 
